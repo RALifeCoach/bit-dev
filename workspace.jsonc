@@ -26,7 +26,7 @@
     /**
      * default scope for all components in workspace.
      **/
-    "defaultScope": "shohamgilad.tailwind-test"
+    "defaultScope": "pi-risk.components"
   },
   /**
    * main configuration for component dependency resolution.
@@ -76,7 +76,7 @@
       "teambit.harmony/aspect": {}
     },
     "components/ui": {
-      "shohamgilad.tailwind-test/envs/tailwind-react": {}
+      "pi-risk.components/envs/tailwind-react": {}
     },
     "components/tailwind-styles": {
       "teambit.react/react": {}
