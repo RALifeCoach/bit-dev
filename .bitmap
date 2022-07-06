@@ -10,26 +10,26 @@
 
 {
     "envs/tailwind-react": {
-        "scope": "",
-        "version": "",
+        "scope": "pi-risk.components",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "components/envs/tailwind-bit"
     },
     "styles/tailwind-styles": {
-        "scope": "",
-        "version": "",
+        "scope": "pi-risk.components",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "components/tailwind-styles"
     },
     "ui/button": {
-        "scope": "",
-        "version": "",
+        "scope": "pi-risk.components",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "components/ui/button/components/tailwind-button"
     },
     "ui/themed-component": {
-        "scope": "",
-        "version": "",
+        "scope": "pi-risk.components",
+        "version": "0.0.1",
         "mainFile": "index.ts",
         "rootDir": "components/ui/themed-component"
     },

@@ -1,7 +1,7 @@
 import { WebpackConfigTransformer, WebpackConfigMutator } from "@teambit/webpack";
 import * as stylesRegexps from "@teambit/webpack.modules.style-regexps";
 import tailwindcssPlugin from "tailwindcss";
-import { tailwindConfigPath } from "@pi-risk/pi-risk-components.styles.tailwind-styles";
+import { tailwindConfigPath } from "@pi-risk/components.styles.tailwind-styles";
 
 function addTailwindConfig(config: WebpackConfigMutator): WebpackConfigMutator {
   // @ts-ignore

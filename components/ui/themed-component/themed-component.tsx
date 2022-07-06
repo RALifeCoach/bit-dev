@@ -1,8 +1,8 @@
-import React, { ReactElement } from "react";
+import * as React from "react";
 
 export type ThemedComponentProps = {
   className: string;
-  children: (ReactElement<any> | string)[];
+  children: (React.ReactElement<any> | string)[];
 };
 
 export function ThemedComponent({ children, className }: ThemedComponentProps) {
